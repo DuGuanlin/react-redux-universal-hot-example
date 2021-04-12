@@ -167,7 +167,8 @@
     "timekeeper": "0.0.5",
     "webpack": "^1.12.9",
     "webpack-dev-middleware": "^1.4.0",
-    "webpack-hot-middleware": "^2.5.0"
+    "webpack-hot-middleware": "^2.5.0",
+    "prop-types": "^15.7.2"
   },
   "engines": {
     "node": "7.5.0",
